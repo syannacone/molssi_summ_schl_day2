@@ -2,3 +2,6 @@
 .ipynb_checkpoints
 
 .gitignore
+
+# text editor temporary files
+*~
